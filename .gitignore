@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets / env
+.env
+*.json
+*.yaml
+*.yml
+
+# Données lourdes / artefacts
+*.db
+data/derivatives/
+# OS
+.DS_Store
+Thumbs.db
